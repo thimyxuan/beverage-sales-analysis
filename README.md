@@ -1,0 +1,42 @@
+## Clone
+
+```$ git clone https://github.com/thimyxuan/beverage-sales-analysis.git```
+
+## Dépendances
+
+```$ pip install library_name```
+
+Pour utiliser ce projet vous aurez besoin d'installer les librairies ci-dessous.
+
+## Stack technique 
+
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
+## Sujet
+
+Nous avons des données de vente de boissons entre 2017 et 2019.  
+Nous souhaitons mettre en évidence les indicateurs de vente intéressants pour les métiers (commercial, marketing etc.).  
+Puis les présenter sous forme de visualisation dans un tableau de bord.  
+
+## Problématique 
+
+Utiliser l'EDA pour analyser les données de ventes de boissons.
+Identifier les indicateurs de vente pertinents.
+Présenter les résultats sous forme de visualisations avec l'outil Tableau.
+
+## Plan 
+
+Partie 1 - EDA
+- Lecture des données
+- Statistiques basiques
+- Visualisations
+- KPI retenus
+
+Partie 2 - Tableau de bord
+- Accessible ici : [lien vers le Tableau](https://public.tableau.com/views/dashboard_ventes_boisson/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+***Note : Les données sont fictives et utilisées à des fins d'apprentissage.***
