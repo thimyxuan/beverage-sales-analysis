@@ -15,18 +15,18 @@ Pour utiliser ce projet vous aurez besoin d'installer les librairies ci-dessous.
 - Numpy
 - Matplotlib
 - Seaborn
+- Tableau
 
 ## Sujet
 
 Nous avons des données de vente de boissons entre 2017 et 2019.  
-Nous souhaitons mettre en évidence les indicateurs de vente intéressants pour les métiers (commercial, marketing etc.).  
-Puis les présenter sous forme de visualisation dans un tableau de bord.  
+Nous souhaitons mettre en évidence les indicateurs de vente intéressants pour les métiers (commercial, marketing etc.), puis les présenter sous forme de visualisations dans un tableau de bord.  
 
 ## Problématique 
 
-Utiliser l'EDA pour analyser les données de ventes de boissons.
-Identifier les indicateurs de vente pertinents.
-Présenter les résultats sous forme de visualisations avec l'outil Tableau.
+Utiliser l'EDA pour analyser les données de ventes de boissons.  
+Identifier les indicateurs de vente pertinents.  
+Présenter les résultats sous forme de visualisations avec l'outil Tableau.  
 
 ## Plan 
 
@@ -37,6 +37,7 @@ Partie 1 - EDA
 - KPI retenus
 
 Partie 2 - Tableau de bord
-- Accessible ici : [lien vers le Tableau](https://public.tableau.com/views/dashboard_ventes_boisson/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Le dashboard est accessible ici : [Tableau ventes boissons](https://public.tableau.com/views/dashboard_ventes_boisson/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-***Note : Les données sont fictives et utilisées à des fins d'apprentissage.***
+##
+*Note : Les données sont fictives et utilisées à des fins d'apprentissage.*
