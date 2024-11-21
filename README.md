@@ -36,7 +36,7 @@ Partie 1 - EDA
 - KPI retenus
 
 Partie 2 - Tableau de bord
-- Le dashboard est accessible ici : [Tableau ventes boissons](https://public.tableau.com/views/dashboard_ventes_boisson/Tableaudebord1?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Le dashboard est accessible ici : [Tableau ventes boissons](https://public.tableau.com/app/profile/thi.my.xu.n.nguyen/viz/Dashboard-Ventesdeboisson/Tableau)
 
 ##
 *Note : Les données sont fictives et utilisées à des fins d'apprentissage.*
